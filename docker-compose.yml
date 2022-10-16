@@ -1,0 +1,20 @@
+version: '2'
+services:
+  xray:
+    image: teddysun/xray
+    ports:
+      - "443:443"
+    volumes:
+      - ./config.json:/etc/xray/config.json
+      - ./cert:/etc/cert
+      - ./log:/var/log/xray
+    links:
+      - nginx
+  nginx:
+    image: nginx
+    ports:
+      - "80:80"
+    volumes:
+      - ./nginx/conf.d:/etc/nginx/conf.d
+      - ./nginx/html:/usr/share/nginx/html
+      - ./log:/var/log/nginx
