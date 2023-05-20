@@ -95,7 +95,7 @@
             "users": [
               {
                 "id": "user-uuid", // UUID
-                "flow": "xtls-rprx-splice", // Window与Mac请使用direct
+                "flow": "xtls-rprx-vision",
                 "encryption": "none",
                 "level": 0
               }
@@ -105,8 +105,8 @@
       },
       "streamSettings": {
         "network": "tcp",
-        "security": "xtls",
-        "xtlsSettings": {
+        "security": "tls",
+        "tlsSettings": {
           "serverName": "user-domain", // 域名
           "allowInsecure": false
         }

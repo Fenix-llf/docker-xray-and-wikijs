@@ -44,7 +44,7 @@
         "clients": [
           {
             "id": "user-uuid", // UUID
-            "flow": "xtls-rprx-direct",
+            "flow": "xtls-rprx-vision",
             "level": 0,
             "email": "user-email" // 邮箱
           }
@@ -63,12 +63,12 @@
       },
       "streamSettings": {
         "network": "tcp",
-        "security": "xtls",
-        "xtlsSettings": {
+        "security": "tls",
+        "tlsSettings": {
           "alpn": [ "http/1.1" ],
           "certificates": [
             {
-              "certificateFile": "/etc/cert/cert.crt",
+              "certificateFile": "/etc/cert/fullchain.crt",
               "keyFile": "/etc/cert/cert.key"
             }
           ]
