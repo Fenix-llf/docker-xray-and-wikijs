@@ -1,1 +1,44 @@
 Don't modify this file
+2023/12/14 10:33:05 [Warning] transport/internet/websocket: accepting PROXY protocol
+2023/12/14 10:33:05 [Warning] core: Xray 1.8.6 started
+2023/12/14 10:36:16 [Warning] transport/internet/websocket: accepting PROXY protocol
+2023/12/14 10:36:16 [Warning] core: Xray 1.8.6 started
+2023/12/16 23:15:55 [Warning] transport/internet/websocket: accepting PROXY protocol
+2023/12/16 23:15:55 [Warning] core: Xray 1.8.6 started
+2023/12/16 23:16:43 [Warning] transport/internet/websocket: accepting PROXY protocol
+2023/12/16 23:16:43 [Warning] core: Xray 1.8.6 started
+2023/12/16 23:21:59 [Warning] transport/internet/websocket: accepting PROXY protocol
+2023/12/16 23:21:59 [Warning] core: Xray 1.8.6 started
+2023/12/16 23:25:56 [Warning] transport/internet/websocket: accepting PROXY protocol
+2023/12/16 23:25:56 [Warning] core: Xray 1.8.6 started
+2023/12/16 23:26:58 [Warning] transport/internet/websocket: accepting PROXY protocol
+2023/12/16 23:26:58 [Warning] core: Xray 1.8.6 started
+2023/12/16 23:29:09 [Warning] transport/internet/websocket: accepting PROXY protocol
+2023/12/16 23:29:09 [Warning] core: Xray 1.8.6 started
+2023/12/22 11:41:38 [Warning] transport/internet/websocket: accepting PROXY protocol
+2023/12/22 11:41:38 [Warning] core: Xray 1.8.6 started
+2024/01/08 14:02:18 [Warning] transport/internet/websocket: accepting PROXY protocol
+2024/01/08 14:02:18 [Warning] core: Xray 1.8.6 started
+2024/01/08 14:47:49 [Warning] transport/internet/websocket: accepting PROXY protocol
+2024/01/08 14:47:49 [Warning] core: Xray 1.8.6 started
+2024/01/08 14:50:11 [Warning] transport/internet/websocket: accepting PROXY protocol
+2024/01/08 14:50:11 [Warning] core: Xray 1.8.6 started
+2024/01/08 14:52:29 [Warning] transport/internet/websocket: accepting PROXY protocol
+2024/01/08 14:52:29 [Warning] core: Xray 1.8.6 started
+2024/01/09 14:54:11 [Warning] transport/internet/websocket: accepting PROXY protocol
+2024/01/09 14:54:11 [Warning] core: Xray 1.8.6 started
+2024/01/09 14:54:54 [Warning] transport/internet/websocket: accepting PROXY protocol
+2024/01/09 14:54:54 [Warning] core: Xray 1.8.6 started
+2024/01/09 14:55:07 [Warning] [2430234915] app/proxyman/inbound: connection ends > proxy/vless/inbound: failed to dial to nginx:8080 > common/retry: [dial tcp: lookup nginx on 127.0.0.11:53: server misbehaving] > common/retry: all retry attempts failed
+2024/01/09 14:55:09 [Warning] [4229932811] app/proxyman/inbound: connection ends > proxy/vless/inbound: failed to dial to nginx:8080 > common/retry: [dial tcp: lookup nginx on 127.0.0.11:53: server misbehaving] > common/retry: all retry attempts failed
+2024/01/09 14:55:10 [Warning] [351699022] app/proxyman/inbound: connection ends > proxy/vless/inbound: failed to dial to nginx:8080 > common/retry: [dial tcp: lookup nginx on 127.0.0.11:53: server misbehaving] > common/retry: all retry attempts failed
+2024/01/09 14:55:12 [Warning] [1973692187] app/proxyman/inbound: connection ends > proxy/vless/inbound: failed to dial to nginx:8080 > common/retry: [dial tcp: lookup nginx on 127.0.0.11:53: server misbehaving] > common/retry: all retry attempts failed
+2024/01/09 14:55:15 [Warning] [218629542] app/proxyman/inbound: connection ends > proxy/vless/inbound: failed to dial to nginx:8080 > common/retry: [dial tcp: lookup nginx on 127.0.0.11:53: server misbehaving] > common/retry: all retry attempts failed
+2024/01/09 14:55:18 [Warning] [3125408385] app/proxyman/inbound: connection ends > proxy/vless/inbound: failed to dial to nginx:8080 > common/retry: [dial tcp: lookup nginx on 127.0.0.11:53: server misbehaving] > common/retry: all retry attempts failed
+2024/01/09 14:55:20 [Warning] [1933600262] app/proxyman/inbound: connection ends > proxy/vless/inbound: failed to dial to nginx:8080 > common/retry: [dial tcp: lookup nginx on 127.0.0.11:53: server misbehaving] > common/retry: all retry attempts failed
+2024/01/09 14:55:24 [Warning] [1226919772] app/proxyman/inbound: connection ends > proxy/vless/inbound: failed to dial to nginx:8080 > common/retry: [dial tcp: lookup nginx on 127.0.0.11:53: server misbehaving] > common/retry: all retry attempts failed
+2024/01/09 14:55:38 [Warning] [663823646] app/proxyman/inbound: connection ends > proxy/vless/inbound: failed to dial to nginx:8080 > common/retry: [dial tcp: lookup nginx on 127.0.0.11:53: server misbehaving] > common/retry: all retry attempts failed
+2024/01/09 14:56:19 [Warning] [998641893] app/proxyman/inbound: connection ends > proxy/vless/inbound: failed to dial to nginx:8080 > common/retry: [dial tcp: lookup nginx on 127.0.0.11:53: server misbehaving] > common/retry: all retry attempts failed
+2024/01/09 14:56:24 [Warning] [1272732240] app/proxyman/inbound: connection ends > proxy/vless/inbound: failed to dial to nginx:8080 > common/retry: [dial tcp: lookup nginx on 127.0.0.11:53: server misbehaving] > common/retry: all retry attempts failed
+2024/01/09 14:58:27 [Warning] transport/internet/websocket: accepting PROXY protocol
+2024/01/09 14:58:27 [Warning] core: Xray 1.8.6 started
